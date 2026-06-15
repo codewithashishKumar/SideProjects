@@ -47,11 +47,11 @@ The goal is to learn, build, and ship projects while exploring new technologies,
 
 ## 📂 Projects
 
-| Project   | Description | Status |
-| --------- | ----------- | ------ |
-| Project 1 | Coming Soon | 🚧     |
-| Project 2 | Coming Soon | 🚧     |
-| Project 3 | Coming Soon | 🚧     |
+| Project             | Description                  | Status |
+| ------------------- | ---------------------------- | ------ |
+| Links Hover Effects | A cool hovering effect shown | ✅     |
+| Project 2           | Coming Soon                  | 🚧     |
+| Project 3           | Coming Soon                  | 🚧     |
 
 ---
 
