@@ -26,6 +26,7 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 0 20px;
+  cursor: pointer;
 }
 
 .links-list li::before {
@@ -58,6 +59,7 @@ body {
 .links-list li:hover a {
   color: #111;
 }
+
 .arrowSVG {
   position: relative;
   z-index: 2;
